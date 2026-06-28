@@ -1,3 +1,6 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.21009339
+------------
 # DroneWar GRA AI Officer
 
 **Билингвальный (RU/EN) ИИ-офицер войны дронов на базе General Resonance Architecture (GRA).**
